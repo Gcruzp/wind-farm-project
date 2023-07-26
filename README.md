@@ -1,7 +1,8 @@
 ## Projeto: Aquisição e Disponibilização de Dados em Streaming de Sensores de Turbina Eólica (fictícios) em Ambiente AWS
 
 ## Objetivo:
-O objetivo deste projeto é simular a aquisição de dados em tempo real (Streaming) de sensores instalados em uma turbina eólica, armazenar e analisar esses dados no ambiente da AWS (Amazon Web Services) conforme descrito a seguir:
+O objetivo deste projeto é simular a aquisição de dados em tempo real (Streaming) de sensores instalados em uma turbina eólica, armazenar e analisar esses dados no ambiente da AWS (Amazon Web Services)
+
 ![esquema](esquema.png)
 
 
